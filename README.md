@@ -95,15 +95,11 @@ Data-Cleaning-Visualization-Project/
 
 ├── data_cleaning_project.py
 
-├── data/
+├── raw_data.csv
 
-│   ├── raw_data.csv
+│___ clean_data.csv
 
-│   └── clean_data.csv
-
-├── output/
-
-│   └── dashboard.png
+├── dashboard.png
 
 ## Output
 
